@@ -1,0 +1,92 @@
+ [
+  {
+    "name": "Md Sohag Mia",
+    "role": "C.E.O",
+    "year": 30,
+    "address": "Kapasia,Sohagpur",
+    "salary": 75000,
+    "qualification":"CSE",
+    "url": "https://media.istockphoto.com/photos/portrait-of-smiling-handsome-man-in-blue-tshirt-standing-with-crossed-picture-id1045886560?k=20&m=1045886560&s=612x612&w=0&h=JL8Dy_sRUXJo6PofsX7XkQpWjSTDhD8LuV071LMlb3Y="
+  },
+  {
+    "name": "Md Shamim",
+    "role": "Manager",
+    "year": 25,
+    "address": "Kapasia,Namila",
+    "salary": 50000,
+    "qualification":"BBA Hon's",
+    "url": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.2.1845651797.1630368000"
+  },
+  {
+    "name": "Md Kamran",
+    "role": "Team Leader",
+    "year": 24,
+    "address": "Kapasia,Baribari",
+    "salary": 40000,
+    "qualification":"BBA Hon's",
+    "url": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&w=1000&q=80"
+  },
+  {
+    "name": "Antor Khan",
+    "role": "Area Manager",
+    "year": 24,
+    "address": "Sreepur,Barmi",
+    "salary": 35000,
+    "qualification":"BBA Hon's",
+    "url": "https://img.freepik.com/free-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg?size=626&ext=jpg&ga=GA1.2.1357621821.1625184000"
+  },
+  {
+    "name": "Lesun Sarkar",
+    "role": "Visitor",
+    "year": 24,
+    "address": "Kapasia,Namila",
+    "salary": 30000,
+    "qualification":"BBA Hon's",
+    "url": "https://img.freepik.com/free-photo/portrait-smiling-young-man-eyewear_171337-4842.jpg?size=626&ext=jpg&ga=GA1.2.1093230476.1610582400"
+  },
+  {
+    "name": "Md Musa",
+    "role": "Reporter",
+    "year": 24,
+    "address": "Kapasia,Baribari",
+    "salary": 25000,
+    "qualification":"BBA Hon's",
+    "url": "https://img.freepik.com/free-photo/handsome-young-man-white-t-shirt-cross-arms-chest-smiling-pleased_176420-21607.jpg?size=626&ext=jpg"
+  },
+  {
+    "name": "Md Muajjem",
+    "role": "Operator",
+    "year": 20,
+    "address": "Kapasia,Kapaleswar",
+    "salary": 20000,
+    "qualification":"BBA Hon's",
+    "url": "https://image.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg"
+  },
+  {
+    "name": "Md Jahid",
+    "role": "Field Visitor",
+    "year": 22,
+    "address": "Kapasia,Kapaleswar",
+    "salary": 15000,
+    "qualification":"BA Hon's",
+    "url": "https://image.freepik.com/free-photo/confident-young-man_1098-20868.jpg"
+  },
+  {
+    "name": "Dr Sohel",
+    "role": "Data Entry Operator",
+    "year": 24,
+    "address": "Kapasia,Namila",
+    "salary": 14500,
+    "qualification":"HSC",
+    "url": "https://t4.ftcdn.net/jpg/02/59/16/27/360_F_259162782_NYDGmbwSM4RQcYC55YAPbVban4G0n5t1.jpg"
+  },
+  {
+    "name": "Jakir",
+    "role": "Office Assistance",
+    "year": 29,
+    "address": "Kapasia,Baribari",
+    "salary": 10000,
+    "qualification":"SSC",
+    "url": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg"
+  }
+]

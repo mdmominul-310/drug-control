@@ -1,0 +1,19 @@
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: aliceblue;
+    padding: 20px;
+    
+}
+.header-text{
+    margin-left: 50px;
+    line-height:8px;
+}
+.logo img {
+    width: 100px;
+}
+.uncommon-color{
+    color: orange;
+}

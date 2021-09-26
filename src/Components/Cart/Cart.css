@@ -1,0 +1,15 @@
+.cart-item{
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 10px 10px darkgrey;
+    padding: 10px;
+}
+.cart-item p{
+    border-bottom: 1px solid gray;
+}
+.cart-item h2{
+   background-image: linear-gradient(rgba(161, 159, 159, 0.719),#fff );
+}
+.member-name{
+    border-bottom: 1px solid gray;
+}
